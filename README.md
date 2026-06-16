@@ -16,7 +16,7 @@
 
 🌐 Frontend Developer passionate about creating responsive and user-friendly websites
 
-☁️ Exploring Cloud Computing
+☁️ Fullstack Developer
 
 ---
 
@@ -31,7 +31,7 @@
 ## 🌱 Currently Learning
 
 - Full Stack Development
-- Cloud Computing
+- Web Development
 - Git & GitHub
 
 ---
