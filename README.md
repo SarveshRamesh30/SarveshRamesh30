@@ -28,18 +28,6 @@
 
 ---
 
-## 🚀 Featured Project
-
-### Obstacle Detecting Robot
-
-- Detects obstacles using ultrasonic sensors
-- Automatically changes direction to avoid collisions
-- Mobile app controlled navigation
-
-**Technologies:** Arduino, Ultrasonic Sensor, Bluetooth Module
-
----
-
 ## 🌱 Currently Learning
 
 - Full Stack Development
@@ -48,25 +36,16 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SarveshRamesh30&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarveshRamesh30&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sarvesh_ramesh-85b728383" target="_blank">
+  <a href="https://www.linkedin.com/in/sarvesh_ramesh-85b728383">
     <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
   </a>
 
   &nbsp;&nbsp;&nbsp;
 
-  <a href="https://github.com/SarveshRamesh30" target="_blank">
+  <a href="https://github.com/SarveshRamesh30">
     <img src="https://skillicons.dev/icons?i=github" height="50" />
   </a>
 </p>
