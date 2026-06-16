@@ -1,4 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sarvesh</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Frontend+Developer;Aspiring+Full+Stack+Developer;Computer+Science+Engineering+Student;Cloud+Computing+Enthusiast" alt="Typing SVG" />
+</p>
+
 <h3 align="center">Computer Science Engineering Student | Frontend Developer | Aspiring Full Stack Developer</h3>
 
 ---
@@ -46,23 +51,28 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SarveshRamesh30&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarveshRamesh30&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SarveshRamesh30&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarveshRamesh30&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🔗 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sarvesh_ramesh-85b728383">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
+  <a href="https://www.linkedin.com/in/sarvesh_ramesh-85b728383" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
   </a>
 
-  <a href="https://github.com/SarveshRamesh30">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github" />
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://github.com/SarveshRamesh30" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="50" />
   </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SarveshRamesh30&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
