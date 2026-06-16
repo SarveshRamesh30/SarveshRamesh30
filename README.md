@@ -43,14 +43,10 @@
     <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
   </a>
 
-  &nbsp;&nbsp;&nbsp;
-
   <a href="https://github.com/SarveshRamesh30">
     <img src="https://skillicons.dev/icons?i=github" height="50" />
   </a>
 </p>
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SarveshRamesh30&label=Profile%20Views&color=0e75b6&style=flat" />
